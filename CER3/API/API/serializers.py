@@ -1,4 +1,4 @@
-from rest_framework import serializers
+#from rest_framework import serializers
 #from miapp.models NombreModelo
 
  #class CarreraSerializer(serializers.ModelSerializer):
