@@ -38,8 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     #apps instaladas
-    'CER3',
-    'API',
+    'miapp',
 ]
 
 MIDDLEWARE = [
