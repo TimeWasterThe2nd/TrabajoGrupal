@@ -10,7 +10,7 @@ def index(request):
         "title": title,
     }
 
-    return render(request,'CER3/index.html', data)
+    return render(request,'CER3/inicio.html', data)
 
 def carreras(request):
     title = "Carreras"
